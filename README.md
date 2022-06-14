@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Conocimientos en Desarollo web :
+Html 
+Css
+Bootstrap
+Git
+Github
+Scss
 <!--
 **JuuanA/JuuanA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
