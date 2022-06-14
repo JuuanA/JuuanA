@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola mi nombre es Juan 
 
 Conocimientos en Desarollo web :
 Html 
